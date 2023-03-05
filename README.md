@@ -35,7 +35,7 @@
 <h2>🙋 Grupo:</h2>
 <ul>
     <li>
-        Ana Carolina D'Oliveira
+        Ana Caroline D'Oliveira
         <br>
         <a href=""><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="20px"> <a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20px"></a></a>
         </p>
