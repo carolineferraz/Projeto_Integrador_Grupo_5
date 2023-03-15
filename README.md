@@ -33,55 +33,71 @@
 </p>
 
 <h2>🙋 Grupo:</h2>
-<ul>
-    <li>
-        Ana Caroline D'Oliveira
-        <br>
-        <a href="https://github.com/carolnogueira13"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="20px"> 
-        <a href="https://www.linkedin.com/in/ana-caroline-nogueira-d-oliveira-88279a259/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20px"></a></a>
-        </p>
-    </li>
-    <li>
-        <p>Caroline Ferraz
-        <br>
-        <a href="https://github.com/carolineferraz"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="20px"> 
-        <a href="https://www.linkedin.com/in/ferraz-caroline/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20px"></a></a>
-        </p>
-    </li>
-    <li>
-        <p>Lais Villa
-        <br>
-        <a href="https://github.com/LaisVilla"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="20px"> 
-        <a href="https://www.linkedin.com/in/lais-villa-205614127/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20px"></a></a>
-        </p>
-    </li>
-    <li>
-        <p>Marina Varela
-        <br>
-        <a href="https://github.com/MarinaVarela"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="20px"> 
-        <a href="https://www.linkedin.com/in/marinadev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20px"></a></a>
-        </p>
-    </li>
-    <li>
-        <p>Paula Raposo
-        <br>
-        <a href="https://github.com/Paulabeatriz09"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="20px"> 
-        <a href="https://www.linkedin.com/in/paulabeatrizrocha/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20px"></a></a>
-        </p>
-    </li>
-    <li>
-        <p>Raquel Zanatta
-        <br>
-        <a href="https://github.com/RaquelZanatta"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="20px"> 
-        <a href="https://www.linkedin.com/in/raquel-elias-zanatta-banuth-717188145"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20px"></a></a>
-        </p>
-    </li>
-    <li>
-        <p>Raquel Reis
-        <br>
-        <a href="https://github.com/ReisRaquel"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="20px"> 
-        <a href="https://www.linkedin.com/in/raquel-reis-da-silva-7765421aa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20px"></a></a>
-        </p>
-    </li>
-</ul>
 
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/carolnogueira13">
+        <img src="https://avatars.githubusercontent.com/carolnogueira13" width="100px;" alt="Foto Ana Caroline"/><br>
+        <sub>
+          <b>Ana Caroline D'Oliveira</b>
+        </sub><br>
+         <a href="https://www.linkedin.com/in/ana-caroline-nogueira-d-oliveira-88279a259/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="15px"></a>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/carolineferraz">
+        <img src="https://avatars.githubusercontent.com/carolineferraz" width="100px;" alt="Foto Caroline Ferraz"/><br>
+        <sub>
+          <b>Caroline Ferraz</b>
+        </sub><br>
+        <a href="https://www.linkedin.com/in/ferraz-caroline/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="15px"></a>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/LaisVilla">
+        <img src="https://avatars.githubusercontent.com/LaisVilla" width="100px;" alt="Foto Lais Villa"/><br>
+        <sub>
+          <b>Lais Villa</b>
+        </sub><br>
+        <a href="https://www.linkedin.com/in/lais-villa-205614127/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="15px"></a>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/MarinaVarela">
+        <img src="https://avatars.githubusercontent.com/MarinaVarela" width="100px;" alt="Foto Marina Varela"/><br>
+        <sub>
+          <b>Marina Varela</b>
+        </sub><br>
+        <a href="https://www.linkedin.com/in/marinadev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="15px"></a>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Paulabeatriz09">
+        <img src="https://avatars.githubusercontent.com/Paulabeatriz09" width="100px;" alt="Foto Paula Raposo"/><br>
+        <sub>
+          <b>Paula Raposo</b>
+        </sub><br>
+        <a href="https://www.linkedin.com/in/paulabeatrizrocha/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="15px"></a>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/RaquelZanatta">
+        <img src="https://avatars.githubusercontent.com/RaquelZanatta" width="100px;" alt="Foto Raquel Zanatta"/><br>
+        <sub>
+          <b>Raquel Zanatta</b>
+        </sub><br>
+        <a href="https://www.linkedin.com/in/raquel-elias-zanatta-banuth-717188145"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="15px"></a>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ReisRaquel">
+        <img src="https://avatars.githubusercontent.com/ReisRaquel" width="100px;" alt="Foto Raquel Reis"/><br>
+        <sub>
+          <b>Raquel Reis</b>
+        </sub><br>
+        <a href="https://www.linkedin.com/in/raquel-reis-da-silva-7765421aa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="15px"></a>
+      </a>
+    </td>
+    </tr>
+</table>
