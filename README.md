@@ -2,6 +2,11 @@
 
 <h2>📝 Descrição:</h2>
 <p>Repositório destinado ao versionamento compartilhado dos códigos referentes ao Projeto Integrador (Grupo 5) do <b>Curso de Engenharia de Dados</b> da <b>Academia Mulheres em Tech</b> promovido pela <b>Accenture</b> em pareceria com a <b>Gama Academy</b>.</p>
+Trello Spark Girls
+https://trello.com/b/h1LvzYSc/projeto-accenture <br>
+Power Bi
+https://app.powerbi.com/view?r=eyJrIjoiNTgzMjdhNGItMzZlZi00N2U2LTkyNTgtYmQ2ZjFiMTFiMTY0IiwidCI6IjIzNmIzMjk4LWYyMjUtNDQwMi1iOGMwLTY4OTZjNWNmZDQxNyJ9
+
 
 <h2>🎯 Objetivos:</h2>
 <p>Projeto de Análise e Engenharia de Dados com o objetivo de identificar cartões fraudados em uma <a href="https://drive.google.com/file/d/1nXHnNt9dj03GB42SErcrNvZOzHwOyAcx/view?usp=sharing">base de dados<a> pré-estabelecida e gerar relatórios estatísticos (sendo considerados como fraudados os cartões que efetuaram movimentações em um intervalo menor que 2 minutos).
@@ -32,7 +37,18 @@
 <img src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Symbol.png" height="80px"/>
 </p>
 
-<h2>🙋 Grupo:</h2>
+<h2>🧩 Metodologias Organizacionais:</h2>
+<p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Scrum_process.svg/640px-Scrum_process.svg.png" height="60px"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Zoom_Logo_2022.jpg/640px-Zoom_Logo_2022.jpg" height="45px"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Trello-logo-blue.svg/640px-Trello-logo-blue.svg.png" height="40px"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/GitHub_Mark.png/640px-GitHub_Mark.png" height="50px"/>
+</p>
+
+<h2> 💡 Modelo Entidade Relacionamento: </h2>
+
+<img src="https://github.com/carolineferraz/Projeto_Integrador_Grupo_5/blob/main/contents/Modelo%20entidade%20relacionamento.png" width="600" alt="Modelo Entidade Relacional">
+<h2> 🙋 Grupo - Spark Girls</h2>
 
 <table align="center">
   <tr>
